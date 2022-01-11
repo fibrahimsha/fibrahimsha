@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me at fred.ibrahimsha@gmail.com
+- 📫 How to reach me at ...
 
 <!---
 fibrahimsha/fibrahimsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
